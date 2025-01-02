@@ -24,6 +24,15 @@ This project presents a comprehensive framework for addressing the challenges of
 
 ---
 
+## Methodology
+
+Below is a high-level overview of the methodology used in this framework:
+
+![Methodology](wacv_method_122.png)  
+*Figure 1: Overview of the proposed framework for imbalanced SAR ship classification.*
+
+---
+
 ## Project Structure
 
 ### Files and Their Functions
