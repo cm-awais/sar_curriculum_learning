@@ -3,6 +3,20 @@
 ## Overview
 This repository presents a comprehensive framework for addressing the challenges of imbalanced Synthetic Aperture Radar (SAR) ship classification. The framework incorporates **Curriculum Learning**, **Weighted Loss Functions**, and a **Novel Evaluation Metric** to improve model performance on imbalanced datasets. The codebase is modular and designed for easy experimentation and evaluation.
 
+## Citation
+
+If you use this repository in your work, please cite it as follows:
+
+```bibtex
+@inproceeding{N/A,
+  author       = {Ch Muhammad Awais, Marco Reggiannini and Davide Moroni},
+  title        = {A Framework for Imbalanced SAR Ship Classification: Curriculum Learning, Weighted Loss Functions, and a Novel Evaluation Metric},
+  year         = 2025,
+  version      = {1.0.0},
+  doi          = {N/A},
+  url          = {[https://github.com/username/repository-name](https://github.com/cm-awais/sar_curriculum_learning)}
+}
+
 ---
 
 ## Key Features
