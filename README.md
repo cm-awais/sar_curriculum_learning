@@ -1,7 +1,7 @@
 # A Framework for Imbalanced SAR Ship Classification: Curriculum Learning, Weighted Loss Functions, and a Novel Evaluation Metric
 
 ## Overview
-This project presents a comprehensive framework for addressing the challenges of imbalanced Synthetic Aperture Radar (SAR) ship classification. The framework incorporates **Curriculum Learning**, **Weighted Loss Functions**, and a **Novel Evaluation Metric** to improve model performance on imbalanced datasets. The codebase is modular and designed for easy experimentation and evaluation.
+This repository presents a comprehensive framework for addressing the challenges of imbalanced Synthetic Aperture Radar (SAR) ship classification. The framework incorporates **Curriculum Learning**, **Weighted Loss Functions**, and a **Novel Evaluation Metric** to improve model performance on imbalanced datasets. The codebase is modular and designed for easy experimentation and evaluation.
 
 ---
 
