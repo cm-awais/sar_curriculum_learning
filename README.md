@@ -180,5 +180,3 @@ pip install numpy torch torchvision scikit-learn timm pandas
 
 ## Conclusion
 This framework provides a robust solution for imbalanced SAR ship classification by combining curriculum learning, weighted loss functions, and a novel evaluation metric. It is designed for easy experimentation and can be adapted to other imbalanced classification tasks.
-
-Happy coding! 🚀
