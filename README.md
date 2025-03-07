@@ -87,7 +87,15 @@ The following functions are implemented in `main.py` to train models using diffe
 If you use this repository in your work, please cite it as follows:
 
 ```bibtex
-@inproceeding{N/A,
+@InProceedings{Awais_2025_WACV,
+    author    = {Awais, Ch Muhammad and Reggiannini, Marco and Moroni, Davide},
+    title     = {A Framework for Imbalanced SAR Ship Classification: Curriculum Learning Weighted Loss Functions and a Novel Evaluation Metric},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {February},
+    year      = {2025},
+    pages     = {1570-1578}
+}
+@inproceeding{awais_wacv_github,
   author       = {Ch Muhammad Awais, Marco Reggiannini and Davide Moroni},
   title        = {A Framework for Imbalanced SAR Ship Classification: Curriculum Learning, Weighted Loss Functions, and a Novel Evaluation Metric},
   year         = 2025,
